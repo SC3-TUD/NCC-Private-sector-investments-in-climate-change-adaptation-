@@ -2,7 +2,7 @@
 
 # Economic Analysis Repository
 
-This repository contains the data and econometric analysis for Private sector investments in climate change adaptation by Filatova et al. 2025 [link to the paper once it get published]. The analysis is divided into two main components: descriptive statistics and econometric modeling.
+This repository contains the data and econometric analysis for 'Private sector investments in climate change adaptation' by Filatova et al. 2025 [link to the paper once it get published]. The analysis consists of two main components: descriptive statistics and econometric modeling.
 
 ## Repository Structure
 
@@ -23,5 +23,4 @@ If you use this analysis, please cite:
 ```
 
 ## Contact
-
-t.filatova@tudelft.nl
+T.Chatzivasileiadis@tudelft.nl; alessandro.taberna@cmcc.it; t.filatova@tudelft.nl

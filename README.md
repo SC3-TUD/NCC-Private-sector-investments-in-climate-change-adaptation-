@@ -1,4 +1,4 @@
-# NCC-Private-sector-investments-in-climate-change-adaptation-
+# NCC-Private-sector-investments-in-climate-change-adaptation
 
 # Economic Analysis Repository
 
